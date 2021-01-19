@@ -270,6 +270,10 @@ body {
   body {
 
   }
+  .header__chat-box h2 {
+     font-size: 1.3rem;
+     padding: 0%;
+   }
 }
 
 /* Desktop Styles */
